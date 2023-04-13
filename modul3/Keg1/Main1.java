@@ -20,6 +20,6 @@ public class Main1 {
         }
         System.out.println(s.pop());
         System.out.println(s.empty());
-        System.out.println("ppppppppppppppppp");
+    
     }
 }
